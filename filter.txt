@@ -1,1 +1,5 @@
-||vk.com/js/al/aes_light.js?*
+||vk.com##*#ads_left
+||new.vk.com##*.ads_ads_news_wrap
+||vk.com##*[data-ad-view]
+||vk.com##*[data-ad]
+||vk.com/js/al/aes_light.js$script,domain=~vk.com
