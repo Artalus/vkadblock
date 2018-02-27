@@ -1,5 +1,17 @@
+[Adblock Plus 2.0]
+! Checksum: SbAZT1w60QKZwP6DEmR15Q
+! Version: 201802271440
+! Title: VkAdBlock
+! Last modified: 27 Feb 2018 14:40 UTC
+! Expires: 7 days (update frequency)
+! Homepage: https://github.com/draig/vkadblock
+! Licence: https://github.com/draig/vkadblock/blob/master/LICENSE
+!
+! Please report any unblocked adverts or problems
+! in the vk group (https://vk.com/vkadblock)
+!
 ||vk.com##*#ads_left
-||new.vk.com##*.ads_ads_news_wrap
+||vk.com##*.ads_ads_news_wrap
 ||vk.com##*[data-ad-view]
 ||vk.com##*[data-ad]
 ||vk.com/js/al/aes_light.js$script,domain=~vk.com
