@@ -10,8 +10,15 @@
 ! Please report any unblocked adverts or problems
 ! in the vk group (https://vk.com/vkadblock)
 !
-||vk.com##*#ads_left
-||vk.com##*.ads_ads_news_wrap
-||vk.com##*[data-ad-view]
-||vk.com##*[data-ad]
+vk.com##*.ads_label
+vk.com##*.ads_ads_box
+vk.com##*.ads_ad_box
+vk.com##*.ads_ad_box2
+vk.com##*#ads_left *
+vk.com##*#ads_left
+vk.com##*.ads_ads_news_wrap
+vk.com##*[data-ad-view]
+vk.com##*[data-ad]
 ||vk.com/js/al/aes_light.js$script,domain=~vk.com
+||vk.com/ads_rotate.php?act=$xmlhttprequest,domain=vk.com
+||ad.mail.ru/adq/?$script,domain=vk.com
