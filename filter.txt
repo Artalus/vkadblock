@@ -1,6 +1,4 @@
 [Adblock Plus 2.0]
-! Checksum: SbAZT1w60QKZwP6DEmR15Q
-! Version: 201802271440
 ! Title: VkAdBlock
 ! Last modified: 3 Mar 2018 19:13 UTC
 ! Expires: 7 days (update frequency)
