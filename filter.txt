@@ -2,7 +2,7 @@
 ! Checksum: SbAZT1w60QKZwP6DEmR15Q
 ! Version: 201802271440
 ! Title: VkAdBlock
-! Last modified: 27 Feb 2018 14:40 UTC
+! Last modified: 3 Mar 2018 19:13 UTC
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/draig/vkadblock
 ! Licence: https://github.com/draig/vkadblock/blob/master/LICENSE
@@ -19,6 +19,6 @@ vk.com##*#ads_left
 vk.com##*.ads_ads_news_wrap
 vk.com##*[data-ad-view]
 vk.com##*[data-ad]
-||vk.com/js/al/aes_light.js$script,domain=~vk.com
-||vk.com/ads_rotate.php?act=$xmlhttprequest,domain=vk.com
-||ad.mail.ru/adq/?$script,domain=vk.com
+||vk.com/js/al/aes_light.js*$script,domain=~vk.com
+||vk.com/ads_rotate.php?act=*$xmlhttprequest,domain=vk.com
+||ad.mail.ru/adq/*$script,domain=vk.com
